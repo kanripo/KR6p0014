@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 21:01:54.535703
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 15:15
 #+TITLE: 阿彌陀經異本
 #+PROPERTY: CBETA_ID X01n0006
 #+PROPERTY: ID KR6p0014
